@@ -32,6 +32,8 @@
 
 https://www.patreon.com/posts/163270057
 
-لتحميل الكتاب
-[تحميل الكتاب](https://ia902905.us.archive.org/13/items/Android-Full-stack-Developer/Book.pd)
+
+رابط قراءة و تحميل
+https://ia902905.us.archive.org/13/items/Android-Full-stack-Developer/Book.pdf
+
 
