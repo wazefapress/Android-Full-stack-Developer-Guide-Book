@@ -45,9 +45,13 @@ https://ia902905.us.archive.org/13/items/Android-Full-stack-Developer/Book.pdf
 دليل نشر التطبيقات على المتاجر 2026
 
 ✅️ متجر تطبيقات جوجل Google Play Store
+
 ✅️ متجر أبل Apple App Store  
+
 ✅️ متجر Huawei AppGallery
+
 ✅️ متجر Samsung Galaxy Store
+
 
 أولا: متجر تطبيقات جوجل Google Play Store
 نشر تطبيق على متجر Google Play هو رحلة ممتعة، ولكنها تتطلب الانتباه لبعض التفاصيل التقنية والإدارية حتى لا يواجه تطبيقك الرفض.
